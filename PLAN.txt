@@ -1,0 +1,6 @@
+1. strona glowna gdy nie ma cookies wita ladna animacja
+2. na srodku pokazuje sie input gdzie wpisujemy miasto w jakim chcemy sprawdzic pogode
+3. po kliknnieciu: wyslanie do api -> zmiana tla (motywu w zaleznosci od pogody)
+ -> szczegolowe informacje (cisnienie wiatr opady itp) -> wyswietlenie na dole w 5 kafelkach pogode na 5 nastepnych dni
+4. mozliwosc dodania do ulubionych ( na podstawie cookies)
+5. ulubione po lewej stronie
